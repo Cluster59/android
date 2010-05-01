@@ -191,7 +191,7 @@
   <project path="vendor/htc/dream_sapphire" name="cyanogen/android_vendor_htc_dream_sapphire" remote="github" />
 
   <project path="vendor/aosp" name="platform/vendor/aosp" revision="master" />
-  <project path="vendor/clust3r" name="Clust3r/android_vendor_clust3r" remote="github" />
+  <project path="vendor/clust3r" name="Clust3r/android_vendor_clust3r" remote="github" revision="master" />
   <project path="vendor/sample" name="platform/vendor/sample" revision="master" />
 
   <project path="cts" name="platform/cts" />
