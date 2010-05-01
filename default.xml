@@ -20,7 +20,7 @@
 
   <project path="dalvik" name="cyanogen/android_dalvik" remote="github" />
   <project path="development" name="cyanogen/android_development" remote="github" />
-  <project path="frameworks/base" name="cyanogen/android_frameworks_base" remote="github" />
+  <project path="frameworks/base" name="Cluster59/android_frameworks_base" remote="github" />
   <project path="frameworks/opt/com.google.android" name="platform/frameworks/opt/com.google.android"/>
   <project path="frameworks/opt/com.google.android.googlelogin" name="platform/frameworks/opt/com.google.android.googlelogin"/>
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji"/>
@@ -191,7 +191,7 @@
   <project path="vendor/htc/dream_sapphire" name="cyanogen/android_vendor_htc_dream_sapphire" remote="github" />
 
   <project path="vendor/aosp" name="platform/vendor/aosp" revision="master" />
-  <project path="vendor/cyanogen" name="cyanogen/android_vendor_cyanogen" remote="github" />
+  <project path="vendor/clust3r" name="Clust3r/android_vendor_clust3r" remote="github" />
   <project path="vendor/sample" name="platform/vendor/sample" revision="master" />
 
   <project path="cts" name="platform/cts" />
