@@ -11,6 +11,7 @@
   </project>
 
   <project path="kernel" name="cyanogen/cm-kernel" remote="github" revision="android-msm-2.6.33" />
+  <project path="kernel/arch/arm/configs/" name="Cluster59/cm-kernel_clust3r_config" remote="github" revision="master" />
 
   <project path="bionic" name="cyanogen/android_bionic" remote="github" />
 
